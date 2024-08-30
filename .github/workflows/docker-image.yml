@@ -32,7 +32,7 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: phanidhar124/phanidharrepo:latest
+          tags: phanidhar124/phanii:latest
           load: true
 
       - name: Logout from DockerHub
